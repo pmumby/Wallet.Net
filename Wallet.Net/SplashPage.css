@@ -1,0 +1,36 @@
+﻿body
+{
+}
+
+.title 
+{
+	font-size:30px;
+	font-weight:bold;
+}
+
+.tagline
+{
+	font-size:15px;
+	font-style:italic;
+}
+
+.description
+{
+	font-size:18px;
+	margin-top:15px;	
+}
+
+.donate
+{
+	font-size:12px;
+	font-weight:bold;
+	margin-top:15px;
+}
+
+.warning
+{
+	font-size:12px;
+	color:Red;
+	font-weight:bold;
+	margin-top:15px;
+}

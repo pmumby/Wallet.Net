@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Bson
+END
+BsonWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Bson/BsonWriter.cs
+END
+BsonToken.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Bson/BsonToken.cs
+END
+BsonBinaryWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Bson/BsonBinaryWriter.cs
+END
+BsonType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Bson/BsonType.cs
+END
+BsonReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Bson/BsonReader.cs
+END
+BsonObjectId.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Bson/BsonObjectId.cs
+END
+BsonBinaryType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Bson/BsonBinaryType.cs
+END

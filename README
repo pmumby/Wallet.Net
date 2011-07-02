@@ -1,0 +1,15 @@
+This is pretty rough around the edges.
+
+It's only minimally tested.
+
+You need .net 4.1 for it
+
+You'll need a bitcoin server running JSON-RPC Service, and have user/pass configured. Then enter it into the app config.
+
+Do not try the SSH stuff, it's flaky right now, I'm still debugging that.
+
+PLEASE test this on testnet for now. I have no idea how many bugs there may be.
+
+Please let me know your bugs, issues, problems, or whatever. So that I can correct them.
+
+Thanks!

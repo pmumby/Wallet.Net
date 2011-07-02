@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bitnet/!svn/ver/1/trunk/Bitnet.Client
+END
+Bitnet.Client.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bitnet/!svn/ver/1/trunk/Bitnet.Client/Bitnet.Client.csproj
+END
+IBitnetClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bitnet/!svn/ver/1/trunk/Bitnet.Client/IBitnetClient.cs
+END
+BitnetClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bitnet/!svn/ver/1/trunk/Bitnet.Client/BitnetClient.cs
+END

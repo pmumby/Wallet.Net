@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Serialization
+END
+JsonTypeReflector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Serialization/JsonTypeReflector.cs
+END
+JsonSerializerInternalReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Serialization/JsonSerializerInternalReader.cs
+END
+JsonPropertyCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Serialization/JsonPropertyCollection.cs
+END
+JsonSerializerInternalBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Serialization/JsonSerializerInternalBase.cs
+END
+JsonSerializerInternalWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Serialization/JsonSerializerInternalWriter.cs
+END
+JsonStringContract.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Serialization/JsonStringContract.cs
+END
+JsonObjectContract.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Serialization/JsonObjectContract.cs
+END
+JsonPrimitiveContract.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Serialization/JsonPrimitiveContract.cs
+END
+IValueProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Serialization/IValueProvider.cs
+END
+ReflectionValueProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Serialization/ReflectionValueProvider.cs
+END
+LateBoundMetadataTypeAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Serialization/LateBoundMetadataTypeAttribute.cs
+END
+DefaultContractResolver.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Serialization/DefaultContractResolver.cs
+END
+JsonSerializerProxy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Serialization/JsonSerializerProxy.cs
+END
+DefaultSerializationBinder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Serialization/DefaultSerializationBinder.cs
+END
+JsonArrayContract.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Serialization/JsonArrayContract.cs
+END
+JsonContract.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Serialization/JsonContract.cs
+END
+IContractResolver.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Serialization/IContractResolver.cs
+END
+ObjectConstructor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Serialization/ObjectConstructor.cs
+END
+JsonDynamicContract.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Serialization/JsonDynamicContract.cs
+END
+JsonProperty.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Serialization/JsonProperty.cs
+END
+DefaultReferenceResolver.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Serialization/DefaultReferenceResolver.cs
+END
+JsonFormatterConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Serialization/JsonFormatterConverter.cs
+END
+CamelCasePropertyNamesContractResolver.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Serialization/CamelCasePropertyNamesContractResolver.cs
+END
+IReferenceResolver.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Serialization/IReferenceResolver.cs
+END
+JsonLinqContract.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Serialization/JsonLinqContract.cs
+END
+DynamicValueProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Serialization/DynamicValueProvider.cs
+END
+JsonDictionaryContract.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Serialization/JsonDictionaryContract.cs
+END
+ErrorContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Serialization/ErrorContext.cs
+END
+CachedAttributeGetter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Serialization/CachedAttributeGetter.cs
+END
+JsonISerializableContract.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Serialization/JsonISerializableContract.cs
+END
+ErrorEventArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Serialization/ErrorEventArgs.cs
+END
+OnErrorAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Serialization/OnErrorAttribute.cs
+END

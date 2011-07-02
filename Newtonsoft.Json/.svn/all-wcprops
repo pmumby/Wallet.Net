@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bitnet/!svn/ver/2/trunk/Newtonsoft.Json
+END
+JsonReaderException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/JsonReaderException.cs
+END
+JsonConverterCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/JsonConverterCollection.cs
+END
+JsonSerializerSettings.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/JsonSerializerSettings.cs
+END
+FormatterAssemblyStyle.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/FormatterAssemblyStyle.cs
+END
+JsonWriterException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/JsonWriterException.cs
+END
+JsonConverterAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/JsonConverterAttribute.cs
+END
+DefaultValueHandling.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/DefaultValueHandling.cs
+END
+TypeNameHandling.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/TypeNameHandling.cs
+END
+ConstructorHandling.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/ConstructorHandling.cs
+END
+JsonReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/JsonReader.cs
+END
+ReferenceLoopHandling.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/ReferenceLoopHandling.cs
+END
+JsonContainerAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/JsonContainerAttribute.cs
+END
+ObjectCreationHandling.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/ObjectCreationHandling.cs
+END
+JsonTextReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/JsonTextReader.cs
+END
+SerializationBinder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/SerializationBinder.cs
+END
+JsonIgnoreAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/JsonIgnoreAttribute.cs
+END
+JsonConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/JsonConverter.cs
+END
+PreserveReferencesHandling.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/PreserveReferencesHandling.cs
+END
+Newtonsoft.Json.Silverlight.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Newtonsoft.Json.Silverlight.csproj
+END
+MemberSerialization.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/MemberSerialization.cs
+END
+JsonWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/JsonWriter.cs
+END
+Newtonsoft.Json.Net35.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Newtonsoft.Json.Net35.csproj
+END
+Dynamic.snk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Dynamic.snk
+END
+JsonTextWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/JsonTextWriter.cs
+END
+NullValueHandling.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/NullValueHandling.cs
+END
+Required.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Required.cs
+END
+JsonObjectAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/JsonObjectAttribute.cs
+END
+JsonSerializationException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/JsonSerializationException.cs
+END
+Newtonsoft.Json.ruleset
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Newtonsoft.Json.ruleset
+END
+Newtonsoft.Json.WindowsPhone.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Newtonsoft.Json.WindowsPhone.csproj
+END
+JsonArrayAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/JsonArrayAttribute.cs
+END
+StreamingContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/StreamingContext.cs
+END
+JsonValidatingReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/JsonValidatingReader.cs
+END
+Newtonsoft.Json.Net20.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Newtonsoft.Json.Net20.csproj
+END
+JsonPropertyAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/JsonPropertyAttribute.cs
+END
+JsonSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/JsonSerializer.cs
+END
+JsonConstructorAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/JsonConstructorAttribute.cs
+END
+MissingMemberHandling.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/MissingMemberHandling.cs
+END
+IJsonLineInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/IJsonLineInfo.cs
+END
+Newtonsoft.Json.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Newtonsoft.Json.csproj
+END
+JsonToken.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/JsonToken.cs
+END
+JsonConvert.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/JsonConvert.cs
+END

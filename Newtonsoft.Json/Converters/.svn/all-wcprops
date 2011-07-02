@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Converters
+END
+JavaScriptDateTimeConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Converters/JavaScriptDateTimeConverter.cs
+END
+BinaryConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Converters/BinaryConverter.cs
+END
+ExpandoObjectConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Converters/ExpandoObjectConverter.cs
+END
+DataSetConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Converters/DataSetConverter.cs
+END
+DateTimeConverterBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Converters/DateTimeConverterBase.cs
+END
+StringEnumConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Converters/StringEnumConverter.cs
+END
+CustomCreationConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Converters/CustomCreationConverter.cs
+END
+KeyValuePairConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Converters/KeyValuePairConverter.cs
+END
+JsonDateTimeSerializationMode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Converters/JsonDateTimeSerializationMode.cs
+END
+BsonObjectIdConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Converters/BsonObjectIdConverter.cs
+END
+XmlNodeConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Converters/XmlNodeConverter.cs
+END
+IsoDateTimeConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Converters/IsoDateTimeConverter.cs
+END
+RegexConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Converters/RegexConverter.cs
+END
+EntityKeyMemberConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Converters/EntityKeyMemberConverter.cs
+END
+DataTableConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/bitnet/!svn/ver/1/trunk/Newtonsoft.Json/Converters/DataTableConverter.cs
+END
