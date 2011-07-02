@@ -21,7 +21,7 @@ namespace Wallet.Net
 
         public void Read()
         {
-            string filename = Path.GetDirectoryName(Assembly.GetExecutingAssembly().GetModules()[0].FullyQualifiedName) + "\\walletconfig.xml";
+            string filename = System.Windows.Forms.Application.UserAppDataPath + "\\walletconfig.xml";
             if (File.Exists(filename))
             {
                 ConfigFile temp = ConfigFile.Load(filename);
@@ -42,7 +42,7 @@ namespace Wallet.Net
 
         public void Write()
         {
-            string filename = Path.GetDirectoryName(Assembly.GetExecutingAssembly().GetModules()[0].FullyQualifiedName) + "\\walletconfig.xml";
+            string filename = System.Windows.Forms.Application.UserAppDataPath + "\\walletconfig.xml";
             ConfigFile.Save(filename, this);
         }
 

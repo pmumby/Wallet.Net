@@ -66,7 +66,7 @@ namespace Wallet.Net
 
         public void GetDestAddresses()
         {
-            string filename = Path.GetDirectoryName(Assembly.GetExecutingAssembly().GetModules()[0].FullyQualifiedName) + "\\addressbook.xml";
+            string filename = System.Windows.Forms.Application.UserAppDataPath + "\\addressbook.xml";
             XmlSerializer deserializer = new XmlSerializer(typeof(List<AddressBookEntry>));
             TextReader reader = new StreamReader(filename);
             this.DestAddressList = (List<AddressBookEntry>)deserializer.Deserialize(reader);
@@ -76,7 +76,7 @@ namespace Wallet.Net
 
         public void SaveDestAddresses()
         {
-            string filename = Path.GetDirectoryName(Assembly.GetExecutingAssembly().GetModules()[0].FullyQualifiedName) + "\\addressbook.xml";
+            string filename = System.Windows.Forms.Application.UserAppDataPath + "\\addressbook.xml";
             XmlSerializer serializer = new XmlSerializer(typeof(List<AddressBookEntry>));
             TextWriter writer = new StreamWriter(filename);
             serializer.Serialize(writer, this.DestAddressList);
